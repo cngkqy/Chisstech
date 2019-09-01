@@ -7,13 +7,7 @@
 
 您可以通过以下方式联系我们:
 
-<!--<a href="https://tieba.baidu.com/f?kw=%C6%E6%CA%BD%CD%F8%B6%DC" target="_blank">百度贴吧</a>-->
-
-<!--QQ群：240117804-->
-
 微信：mm_bsb
-
-<!--邮箱：241215806@qq.com-->
 
 <a href="https://shop156874102.taobao.com" target="_blank">淘宝店铺</a>
 
